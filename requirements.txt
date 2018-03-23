@@ -7,3 +7,4 @@ whitenoise==3.3.0
 django-paypal
 django-oauth-twitter
 cmsplugin-twitter
+aa_stripe
